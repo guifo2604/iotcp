@@ -2,6 +2,10 @@
 ## Guilherme Santos Fonseca, RM 564232
 ## Gustavo Araujo da Silva, RM 566526
 
+
+
+
+
 # 📡 Monitoramento Inteligente com IoT
 
 ## 📌 Descrição

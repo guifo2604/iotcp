@@ -1,0 +1,11 @@
+CREATE DATABASE IF NOT EXISTS cp2_iot;
+USE cp2_iot;
+
+CREATE TABLE IF NOT EXISTS leituras (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    sensor_nome VARCHAR(50),
+    valor FLOAT,
+    data_hora TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+SELECT * FROM leituras;

@@ -65,4 +65,4 @@ A simulação do circuito pode ser acessada no link abaixo:
 O ambiente simula o ESP32 com os sensores DHT22 e LDR, permitindo visualizar o funcionamento do sistema sem necessidade de hardware físico.
 
 ## Link do vídeo no youtube
-👉 https://youtu.be/RUf0nqWZp1E
+👉 https://youtu.be/Cc9agbPo6z4?si=WokZ8TTFsd-gtlbz

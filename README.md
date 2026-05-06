@@ -60,7 +60,7 @@ ESP32 → MQTT → Node-RED → Dashboard + MySQL + API externa
 
 A simulação do circuito pode ser acessada no link abaixo:
 
-👉 https://wokwi.com/projects/SEU-LINK-AQUI
+👉 https://wokwi.com/projects/462746973223356417
 
 O ambiente simula o ESP32 com os sensores DHT22 e LDR, permitindo visualizar o funcionamento do sistema sem necessidade de hardware físico.
 
